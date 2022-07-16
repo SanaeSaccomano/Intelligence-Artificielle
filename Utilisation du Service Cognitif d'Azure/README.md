@@ -7,7 +7,7 @@ La démonstration de l'utilisation du service est à parcourir dans le Jupyter N
 
 Un coup d'oeil au projet se trouve au sein de la présentation [Présentation du service cognitif d'Azure](https://github.com/SanaeSaccomano/Intelligence-Artificielle/blob/main/Utilisation%20du%20Service%20Cognitif%20d'Azure/Pr%C3%A9sentation%20du%20service%20cognitif%20d'Azure.pdf)
  
-## Compétences : 
+## Compétences
 - Utiliser un modèle pré-entraîné sur le cloud
 - Evaluer la pertinence de la réponse d'un modèle
 - Utiliser un modèle pré-entraîné de façon sécurisé
