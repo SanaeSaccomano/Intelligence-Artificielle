@@ -20,8 +20,8 @@ Un coup d'oeil au projet se trouve au sein de la présentation [Présentation du
 Note : les fonctions personnelles de ce projet ne sont pas explicitées pour des raisons de confidentialité mais sont expliquées dès leur premier appel dans le script.
 
 ## Mots clés 
+python azure-cognitive-services azure-text-analytics language api
 
-
-Extrait :
+## Extrait :
 
 ![Extrait_01](https://user-images.githubusercontent.com/91669852/178104991-cbfbcc0e-9562-4723-85b9-3ebfcdf2b16a.PNG)
