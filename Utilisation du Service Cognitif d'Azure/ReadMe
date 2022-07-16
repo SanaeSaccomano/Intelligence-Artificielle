@@ -12,6 +12,10 @@ La démonstration de l'utilisation du service est à parcourir dans le Jupyter N
 - Utiliser un modèle pré-entraîné de façon sécurisé
 
 ## Librairies
+pandas
+azure.ai.textanalytics
+azure.core.credentials
+
 
 ## Mots clés 
 
