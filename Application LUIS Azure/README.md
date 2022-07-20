@@ -13,13 +13,17 @@ Un coup d'oeil au projet se trouve au sein de la présentation [Application LUIS
  
 ## Compétences
 - Exploration et préparation des données
-- Création d'une application LUIS grâce à des scripts create/train/test/predict
+- Création évaluation d'une application LUIS grâce à des scripts create/train/test/predict
 - Utiliser une application LUIS de façon sécurisé
 
 ## Librairies
 - pandas
-- azure.ai.textanalytics
-- azure.core.credentials
+- numpy
+- matplotlib
+- collections
+- json, time, uuid, urllib, zipfile, os
+- azure.cognitiveservices.language.luis
+- msrest.authentication
 
 *Note : les fonctions personnelles de ce projet ne sont pas explicitées pour des raisons de confidentialité mais sont expliquées dès leur premier appel dans le script.*
 
