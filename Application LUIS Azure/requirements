@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+collections
+json
+time
+uuid
+urllib
+zipfile
+os
+azure.cognitiveservices.language.luis.authoring
+azure.cognitiveservices.language.luis.authoring.models
+azure.cognitiveservices.language.luis.runtime
+msrest.authentication
