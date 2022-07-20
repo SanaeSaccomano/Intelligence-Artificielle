@@ -28,7 +28,7 @@ Un coup d'oeil au projet se trouve au sein de la présentation [Application LUIS
 *Note : les fonctions personnelles de ce projet ne sont pas explicitées pour des raisons de confidentialité mais sont expliquées dès leur premier appel dans le script.*
 
 ## Mots clés 
-python azure-cognitive-services azure-text-analytics language api
+python azure-language-understanding api
 
 
 ## Extrait :
